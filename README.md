@@ -32,8 +32,8 @@ For more information about (and developing) services, please see the [Service Do
 
 There are several add-on services available to extend the functionality of Bitcore:
 
-- [Insight API] (https://github.com/jemcashproject/insight-api-jemcash/tree/master)
-- [Insight jemcash] (https://github.com/jemcashproject/insight-ui-jemcash/tree/master)
+- [Insight API](https://github.com/jemcashproject/insight-api-jemcash/tree/master)
+- [Insight UI](https://github.com/jemcashproject/insight-ui-jemcash/tree/master)
 
 ## Documentation
 
